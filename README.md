@@ -32,3 +32,4 @@ In conclusion, this project successfully demonstrates the end-to-end implementat
 
 ## output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aaa434e8-e762-4d1a-b735-65b6e05e9f82" />
